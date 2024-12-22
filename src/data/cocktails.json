@@ -1,0 +1,43 @@
+﻿[
+  {
+    "id": 1,
+    "name": "莫吉托",
+    "englishName": "Mojito",
+    "ingredients": [
+      {
+        "name": "白朗姆",
+        "amount": "60ml"
+      },
+      {
+        "name": "青柠汁",
+        "amount": "30ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": "15ml"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": "6-8片"
+      },
+      {
+        "name": "苏打水",
+        "amount": "适量"
+      }
+    ],
+    "method": "1. 在杯中放入薄荷叶和糖浆\n2. 轻轻研磨薄荷叶\n3. 加入白朗姆和青柠汁\n4. 加入碎冰并搅拌\n5. 最后用苏打水补满\n6. 轻轻搅拌即可",
+    "glass": "高球杯",
+    "category": "Classic Cocktail",
+    "difficulty": "Easy",
+    "description": "清爽提神的经典鸡尾酒",
+    "garnish": "薄荷叶, 青柠片",
+    "tutorials": [
+      {
+        "platform": "bilibili",
+        "url": "https://www.bilibili.com/video/xxx",
+        "title": "标准莫吉托制作教程",
+        "author": "调酒师小明"
+      }
+    ]
+  }
+]
